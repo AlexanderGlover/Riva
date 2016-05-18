@@ -33,7 +33,7 @@ body  {
 	width:200px;
 	text-align: center;
 	padding-left: calc(50% - 100px);
-	padding-bottom: 50px;
+	padding-bottom: 25px;
 }
 
 h9 {
@@ -53,6 +53,7 @@ Button1 {
 
 	width: auto;
 	height: 100px;
+	padding-bottom: 50px;
 
 }
 
